@@ -1,0 +1,3 @@
+MCF7	"/Users/athib/Desktop/10-20-2015/CTS Interaction Comparison & Motifs/Data/Final Annotation_11-14-2016/MCF7NetworkPF.txt"
+K562	"/Users/athib/Desktop/10-20-2015/CTS Interaction Comparison & Motifs/Data/Final Annotation_11-14-2016/K562NetworkPF.txt"
+GM12878	"/Users/athib/Desktop/10-20-2015/CTS Interaction Comparison & Motifs/Data/Final Annotation_11-14-2016/GMNetworkPF.txt"

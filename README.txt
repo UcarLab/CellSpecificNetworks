@@ -1,4 +1,4 @@
-Network datasets can be found in the current branch.
+Network datasets can be found in the current branch: https://github.com/UcarLab/CellSpecificNetworks/tree/master/CellSpecificNetworkMain
 
 Scripts can be found in the following branches:
 
